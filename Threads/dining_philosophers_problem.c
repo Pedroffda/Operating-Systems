@@ -13,7 +13,6 @@
 #include <stdio.h>
 #include <pthread.h>
 #include <unistd.h>
-#include <time.h>
 #include <string.h>
 
 #define FORKS 5 /*numero de garfos*/
